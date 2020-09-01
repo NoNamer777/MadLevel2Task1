@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MAD - Level 2: Task 1</string>
+    <string name="iv_place_description" />
+    <string name="tv_place_description" />
 </resources>
