@@ -23,7 +23,7 @@ class PlaceAdapter(private val places: List<Place>):
 
     /**
      * Creates and returns a ViewHolder object,
-     * inflating a standard layout called ``
+     * inflating a standard layout called `simple_list_item_1`
      */
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder = ViewHolder(
         LayoutInflater.from(parent.context).inflate(R.layout.item_place, parent, false)
